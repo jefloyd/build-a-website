@@ -1,0 +1,85 @@
+
+
+h2{
+	text-align: center;
+	font-size: 40px;
+	padding: 5px;
+	margin: 
+
+}
+
+body{
+	background-color: ;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+header{
+	background-color: #011b38;
+	color: white;
+}
+
+nav{
+	position: center;
+}
+
+.me{
+	margin:20px;
+	text-align: center;
+}
+
+#web{
+	text-align: center;
+	font-size: 30px;
+	padding: 5px 10px 10px 10px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+#footer{
+   text-align: center;
+   left:0px;
+   bottom:0px;
+   height:15px;
+   padding: 20px;
+   background:#ddd;
+}
+
+#citipix{
+	text-align: left;
+}
+
+#relaxrtitle{
+	text-align: left;
+}
+
+#Edu{
+	text-align: left;
+	font-size: 30px;
+}
+
+#links{
+	text-align: center;
+}
+
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
